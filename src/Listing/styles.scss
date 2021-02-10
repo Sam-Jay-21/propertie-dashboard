@@ -1,0 +1,38 @@
+.listing {
+  position: relative;
+  width: 315px;
+}
+
+.listingImg {
+  border-radius: 4px;
+}
+
+.details {
+  color: #2d2d2d;
+  font-weight: normal;
+  line-height: 32px;
+}
+
+.details > div:first-child {
+  font-weight: 600;
+  font-size: 20px;
+}
+.details > div:nth-child(2) {
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 24px;
+}
+.details > div:nth-child(3) {
+  font-size: 15px;
+}
+.details > div:nth-child(4) {
+  font-size: 14px;
+  color: #979797;
+}
+
+.saveIcon {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  cursor: pointer;
+}
