@@ -7,7 +7,7 @@ Showcases all property listings and favourites as saved listings.
 
 ## How to run
 ```
-git clone https://github.com/Sam-Jay-21?tab=repositories
+git clone git@github.com:Sam-Jay-21/properties-dashboard.git
 cd properties-dashboard
 npm i
 npm start
